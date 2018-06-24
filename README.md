@@ -24,7 +24,7 @@ As for now there no particular procedure for installation.
 
 Just fork the repository,
 ```bash
-$ git clone https://github.com/YOUR-USERNAME/Spoon-Knife
+$ git clone https://github.com/Serg-Eyy/Mokka_sandbox
 ```
 
 update dependencies:
